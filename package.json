@@ -1,0 +1,19 @@
+{
+  "name": "use-observable",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "Rajat Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "react": "^17.0.2",
+    "rxjs": "^7.5.2",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "prepare": "tsc"
+  },
+  "dependencies": {
+    "use-constant": "^1.1.0"
+  }
+}
