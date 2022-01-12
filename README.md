@@ -2,6 +2,14 @@
 
 > Single hook for state, effect and everything else
 
+_⚠️ Warning: Highly Experimental 🧪_
+
+## Installation
+
+```sh
+yarn add https://github.com/rajatsharma/use-observable
+```
+
 ## Usage
 
 ```tsx
